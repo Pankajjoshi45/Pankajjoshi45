@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj joshi</h1>
 <h3 align="center">Hello fellow coders! 👋 I'm a final-year Computer Science wizard 🎓 with a burning passion for all things Blockchain 🏗️ and cutting-edge technologies. When I'm not diving into the intricacies of code, you'll find me crafting seamless and stunning user experiences as a front-end developer. 💻✨I thrive on challenges and constantly seek new opportunities in the vast tech landscape. My love for innovation extends beyond personal growth, as I actively contribute to open-source projects 🌐 and believe in the power of learning in public 📢.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-
+<img align="left" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/thumb/blockchain-6247367-5120160.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajjoshi45&label=Profile%20views&color=0e75b6&style=flat" alt="pankajjoshi45" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajjoshi45" alt="pankajjoshi45" /></a> </p>
